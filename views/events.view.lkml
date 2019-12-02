@@ -9,7 +9,7 @@ view: events {
   }
 
 
-  ####
+  #### comments ####
 
   dimension: browser {
     type: string
